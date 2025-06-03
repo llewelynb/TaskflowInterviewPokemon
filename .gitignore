@@ -1,9 +1,6 @@
-# Ignore the local DB file
 pokemon_assessment.db
 setup_db.py
 instructions.pdf
 instructions.md
-
-# Ignore Python cache files
 __pycache__/
 *.pyc
